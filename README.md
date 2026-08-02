@@ -2,7 +2,6 @@
 A physical wire loop game that uses a Raspberry Pi 2 to handle game logic.
 
 ## Overview
-![image](https://github.com/user-attachments/assets/292ee4bd-be4d-43a3-97ca-60669695a8b7)
 
 I developed this project in high school as part of a mentorship program with an industry software engineer. 
 
